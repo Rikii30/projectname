@@ -1,0 +1,23 @@
+/* static/css/styles.css */
+
+/* Change the background color of the body */
+body {
+    background-color: #f0f0f0; /* Replace with your desired color code */
+}
+
+/* Change the color of the blog post title */
+.post-title {
+    color: #10e3a7; /* Replace with your desired color code */
+}
+
+/* Change the color of the post content */
+.post-content {
+    color: #333; /* Replace with your desired color code */
+}
+
+/* Change the color of links in the blog */
+a {
+    color: #ff6600; /* Replace with your desired color code */
+}
+
+/* Customize other styles as needed */
